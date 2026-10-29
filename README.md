@@ -5,6 +5,7 @@ I am a **Junior Product Analyst** with a background in customer support for a gl
 ---
 #### 🚀 Independent product analytics project
 **Built a prediction platform with telegram distribution & user leaderboards**
+
 ---
 #### 🛠️ My Tech Stack & Skills
 
